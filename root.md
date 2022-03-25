@@ -8,9 +8,9 @@ created: 1647903335171
 
 # AA Log
 
-- [Code](./root.code.md)
-- [Week](./root.week.md)
-- [Assessments](/root.assessment.md)
+- [class](./2-area.class)
+- [Resources](./3-rsrc.md)
+- [code](./code)
 
 ## Resources
 
